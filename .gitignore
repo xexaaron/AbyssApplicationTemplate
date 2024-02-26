@@ -1,3 +1,9 @@
-build/
+build/conan/out/Release
+build/conan/out/Release/AbyssApplication.dir
+build/conan/out/Release/CMakeFiles
+build/conan/out/Release/metadata
+build/conan/out/Release/Release
+build/conan/out/Release/x64
+
 !build/cmake
 

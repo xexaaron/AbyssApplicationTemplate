@@ -1,0 +1,3 @@
+D:/GithubRepositories/AbyssEngine/Application/build/CMakeFiles/AbyssApplication.dir
+D:/GithubRepositories/AbyssEngine/Application/build/CMakeFiles/ALL_BUILD.dir
+D:/GithubRepositories/AbyssEngine/Application/build/CMakeFiles/ZERO_CHECK.dir

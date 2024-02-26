@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\GithubRepositories\AbyssEngine\Application\build\CMakeFiles\472d7811f1d99c21cfb4d033fabe7f74\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A76A0826-943B-3276-86CE-A91B1C6171F9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
